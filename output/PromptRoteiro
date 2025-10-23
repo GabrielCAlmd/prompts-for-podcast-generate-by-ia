@@ -1,0 +1,39 @@
+🎙️ Podcast: Camada 7
+🎧 Apresentador: Chefão da Rede
+⏱️ Duração: ~5 minutos
+
+[INTRODUÇÃO]
+
+E aí, galera! Beleza? Aqui quem fala é o Chefão da Rede, e hoje o papo é pra quem tá começando no mundo das redes de computadores — aquele universo onde os cabos, pacotes e IPs se unem pra fazer a mágica da internet acontecer.
+
+Mas calma! Não precisa entrar em pânico achando que vai ter que virar um gênio da NASA pra entender o que rola aqui. O Camada 7 tá aqui justamente pra isso: explicar de um jeito simples, direto e, claro, com aquela vibe descontraída.
+
+Hoje eu vou te contar uma curiosidade que, sério, pouca gente sabe sobre como os dados realmente viajam pela internet, e depois a gente fala de uma ferramenta essencial pra quem quer entender o que tá rolando dentro da rede.
+Então… prepara o café, ajeita o fone e simbora!
+
+[CURIOSIDADE 1]
+
+Você sabia que quando você manda uma mensagem pra alguém, ela não vai direto pra pessoa?
+Tipo... não é um caminho reto. Na real, os dados da sua mensagem são quebrados em pacotinhos, como se fosse uma pizza fatiada, e cada fatia pode seguir por um caminho diferente até chegar no destino.
+
+Esses pacotes podem passar por roteadores em países diferentes, dependendo do tráfego da rede. É como se você mandasse várias cartas pra alguém, e cada carta fosse por um carteiro diferente — no fim, todas chegam e são montadas de novo.
+
+E o mais louco: tudo isso acontece em milissegundos! A internet é tipo um formigueiro digital — milhões de caminhos e todos trabalhando juntos pra entregar sua mensagem sem você perceber.
+
+[CURIOSIDADE 2]
+
+Agora, se você quer ver esse caminho acontecendo de verdade, tem uma ferramenta muito maneira chamada traceroute — ou “tracert”, se você usar Windows.
+
+Ela mostra por onde os pacotes da sua conexão estão passando até chegar no site que você quer acessar.
+Por exemplo: se você digitar tracert google.com no seu terminal, o computador vai mostrar cada ponto que o sinal passou — do seu roteador até os servidores da Google.
+
+É tipo o GPS da internet! E o melhor: é simples, gratuito e já vem no seu sistema.
+Pra quem tá começando, usar o traceroute é uma das formas mais legais de entender visualmente como a internet realmente se move.
+
+[FINALIZAÇÃO]
+
+E aí, curtiu as curiosidades de hoje? Então já sabe: se liga nas próximas camadas porque aqui no Camada 7 a gente vai descascar o mundo das redes até o último pacote!
+
+Compartilha esse episódio com aquele amigo que acha que “ping” é só barulho de notificação, e vem aprender com o Chefão da Rede.
+
+Eu sou o Chefão, e esse foi o Camada 7 dessa semana! 🚀
